@@ -38,16 +38,6 @@ Amazon Reviews Dataset containing:
 - Higher star ratings generally have higher sentiment scores
 - Positive reviews frequently contain words like "good", "love", and "great"
 
-## Sample Visualizations
-### Rating Distribution
-![EDA](images/eda_plots.png)
-
-### Word Clouds
-![WordCloud](images/wordclouds.png)
-
-### Sentiment Analysis
-![Sentiment](images/sentiment_analysis.png)
-
 ## Future Improvements
 - Build ML-based sentiment classifier
 - Use TF-IDF and Logistic Regression
