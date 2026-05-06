@@ -30,7 +30,7 @@ Amazon Reviews Dataset containing:
 3. Create review length feature
 4. Perform EDA
 5. Generate word clouds
-6. Apply VADER sentiment analysis
+6. Apply VADER(Valence Aware Dictionary and sEntiment Reasoner) sentiment analysis
 7. Visualize sentiment trends
 
 ## Key Insights
