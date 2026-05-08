@@ -42,3 +42,5 @@ Amazon Reviews Dataset containing:
 - Build ML-based sentiment classifier
 - Use TF-IDF and Logistic Regression
 - Deploy using Streamlit
+
+# By - Anushka
